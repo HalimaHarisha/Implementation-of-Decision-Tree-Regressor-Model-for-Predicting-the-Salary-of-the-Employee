@@ -80,7 +80,8 @@ r2
 ## Output:
 
 
-<img width="827" height="321" alt="image" src="https://github.com/user-attachments/assets/94ed509b-906f-4df6-84a7-23313aad5a54" />
+<img width="528" height="296" alt="image" src="https://github.com/user-attachments/assets/1e189f2d-79d5-4d33-a105-4938de01305f" />
+
 
 
 
